@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GamutKart!</title>
+<title>ASC!</title>
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1>GamutKart Retail Store . DEVOPS-TRAINING: 9739368768 ...</h1>
+			<h1> ASC Retail Store </h1>
 		</header>
 
 		<div id="tabs">
@@ -109,7 +109,7 @@
 	</div >
 
 	<div class="container">
-		<footer> Copyright &copy; gamutgurus software services Pvt. Ltd. </footer>
+		<footer> Copyright &copy; ASC Pvt. Ltd. </footer>
 	</div>
 
 </body>
